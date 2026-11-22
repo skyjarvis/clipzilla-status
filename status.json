@@ -1,1 +1,1 @@
-{"state":"idle","run":6,"step":6,"progress":100,"clips_today":3,"updated":"2026-11-22T14:15:00Z","log":[{"t":"15:15","m":"Status-Seite eingerichtet"}]}
+{"state": "running", "run": 7, "step": 1, "progress": 30, "clips_today": 0, "day": "2026-11-22", "updated": "2026-11-22T14:21:41Z", "log": [{"t": "15:15", "m": "Status-Seite eingerichtet"}, {"t": "15:21:41", "m": "Lauf gestartet, Quelle wird gewaehlt"}]}
